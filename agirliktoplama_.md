@@ -7,6 +7,9 @@ Griye dönüştürülecek resim PyCharmda Python projelerinin olduğu dosyanın 
 
 # Flask ile Ağırlık Toplama Kodu:
 Uygulamanın çalışması için gerekli olan from flask import Flask, request , render_template kütüphanelerini ekliyoruz. Ardından çalışma dosyamızın olduğu dizide templates isimli klasör oluşturuyoruz. Ardından HTML sayfalarınızı bu klasöre koyuyoruz. Örneğin agirliktoplama.html gibi sayfalarınızı bu klasöre koyup HTML sayfalarına gerekli kodlamaları yapıyoruz. Son olarak uygulamayı çalıştırdıktan sonra karşımıza çıkan linkten uygulamamıyı HTML sayfaları üzerinde görebiliriz.
+
+Detaylı olarak aşağıdaki dosya linkinden bakabilirsiniz.
+
 [Flask Ağırlık Toplama.docx](https://github.com/leventkalkavan/flask_goruntu_isleme/files/7089424/Flask.Agirlik.Toplama.docx)
 
 
