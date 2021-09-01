@@ -3,4 +3,5 @@
 Otsu algoritmasında histogramın her bir elemanını eşik gibi düşünerek her biri için “weight”,mean” ve ”variance” diye tabir edilen veriler hem eşikten önce(background) hem de eşikten sonrası(foreground) için hesaplanır.
 Her bir eleman eşik kabul edilerek her bir eleman için hesaplamalar yapılacağı için belirlenen elemandan öncesi eşik öncesi(background),belirlenen elemandan sonrası eşik sonrası(foreground) olarak adlandırılır. 
 Detaylı olarak aşağıdaki dosyadan bakabilirsiniz.
+
 [Flaskla Otsu Eşikleme Yöntemi.docx](https://github.com/leventkalkavan/flask_goruntu_isleme/files/7090999/Flaskla.Otsu.Esikleme.Yontemi.docx)
