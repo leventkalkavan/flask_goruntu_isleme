@@ -20,5 +20,8 @@ Buna göre ilk başta verilmiş olan; 996 1718 1002 993 1692 1003 sayılarının
 Yeni elde ettiğimiz değerlerden anlaşılacağı gürültüden kaynaklı 1718 ve 1692 sayıları kaybolmuştur. Yeni değerlerin ortalaması ise 1001,3 dür.
 Değerler; ortanca filtre kullanılmadan önce ortalama 1234 idi. Ortanca filtresi kullanımından sonra 1001,3 olmuştur.
 
+
+Aşağıdaki dosya linkinden detaylı olarak bakabilirsiniz.
+
 [Flask İle Medyan Filtreleme.docx](https://github.com/leventkalkavan/flask_goruntu_isleme/files/7090598/Flask.Ile.Medyan.Filtreleme.docx)
 
