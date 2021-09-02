@@ -10,6 +10,7 @@ Uygulamanın çalışması için gerekli olan from flask import Flask, request ,
 
 Aşağıdaki dosya linkinden detaylı olarak bakabilirsiniz.
 
-[Flask Ağırlık Toplama.docx](https://github.com/leventkalkavan/flask_goruntu_isleme/files/7089424/Flask.Agirlik.Toplama.docx)
+[Flask Ağırlık Toplama.docx](https://github.com/leventkalkavan/flask_goruntu_isleme/files/7096704/Flask.Agirlik.Toplama.docx)
+
 
 
