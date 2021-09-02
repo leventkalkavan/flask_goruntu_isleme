@@ -1,5 +1,5 @@
 from PIL import Image
-from flask import Flask,request, render_template
+from flask import Flask, render_template
 #gerekli kütüphaneleri ekliyoruz
 app = Flask(__name__)
 
