@@ -23,5 +23,6 @@ Değerler; ortanca filtre kullanılmadan önce ortalama 1234 idi. Ortanca filtre
 
 Aşağıdaki dosya linkinden detaylı olarak bakabilirsiniz.
 
-[Flask İle Medyan Filtreleme.docx](https://github.com/leventkalkavan/flask_goruntu_isleme/files/7090598/Flask.Ile.Medyan.Filtreleme.docx)
+[Flask İle Medyan Filtreleme.docx](https://github.com/leventkalkavan/flask_goruntu_isleme/files/7096707/Flask.Ile.Medyan.Filtreleme.docx)
+
 
