@@ -1,0 +1,3 @@
+
+
+[Flask ile Yara İzlerini Görüntüden Kesme.docx](https://github.com/leventkalkavan/flask_goruntu_isleme/files/7115889/Flask.ile.Yara.Izlerini.Goruntuden.Kesme.docx)
